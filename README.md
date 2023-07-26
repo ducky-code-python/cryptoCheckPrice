@@ -9,6 +9,6 @@ You need to create *config.json* file and edit it like this!
 <pre>{
 	"apiIDs" : {
 		"discordUserID" : "Your discord user ID",
-		"discord" : "discord api ID"
+		"discord" : "discord bot api ID"
 	}
 }</pre>
