@@ -8,7 +8,7 @@ You need to create *config.json* file and edit it like this!
 <br>
 <pre>{
 	"apiIDs" : {
-		"steam" : "steam api ID",
-		"discord" : "discord api ID"
+		"discordUserID" : "Your discord user ID",
+		"discord" : "discord bot api ID"
 	}
 }</pre>
